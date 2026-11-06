@@ -16,6 +16,7 @@ GTM builder. I lead marketing at [Claap](https://www.claap.io) (by [lemlist](htt
 
 | Project | What it does |
 |---|---|
+| [`gtm-skills`](https://github.com/clementsprs/gtm-skills) | Open-source agent skills for go-to-market teams, from real shipped work: AI video that looks filmed, premium product motion films. Works in Claude Code and Claude.ai. |
 | [Claap Agent Gallery](https://www.claap.io/agent-gallery) | Ready-to-run Claude agents that work on your real call recordings: win/loss, deal risk, battlecards, rep ramp drills. |
 | [Better Cold Call](https://better-cold-call.vercel.app) | A 2-minute voice cold-call game against an AI prospect, with a live leaderboard. |
 | [Make the Number](https://make-the-number.vercel.app) | Play a VP Sales quarter: pick your tools and plays, try to hit the number. |
